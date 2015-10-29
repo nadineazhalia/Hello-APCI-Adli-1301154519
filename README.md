@@ -1,1 +1,6 @@
-# Hello-APCI-Adli-1301154519
+ Program Hello;
+        Uses Crt;
+        Begin
+            ClrScr;
+            Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar
+        End
